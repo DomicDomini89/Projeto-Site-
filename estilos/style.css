@@ -1,0 +1,43 @@
+{
+  font-family: arial, helvetica , sans-serif;
+  font-size: 16px;
+}
+
+body {
+background-color: rgb(109, 212, 40);
+
+}
+
+main{
+    background-color: rgb(218, 12, 12);
+    width: 80px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 448);
+}
+
+h1{
+   font-size: 2em; 
+   color:rgb(58, 0 , 112);
+}
+
+h2{
+   font-size: 1.5em;
+   color: rgb(58, 0 , 112);
+}
+
+img.lado{
+   float: right;
+}
+
+
+a{
+   text-decoration: none;
+   font-weight: bold;
+   color: rgb(58, 0 , 112);
+}
+
+a:hover{
+   text-decoration: underline;
+   color: rgb(26, 26, 112)
+}
